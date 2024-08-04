@@ -17,3 +17,7 @@ Estou me especializando em Ciência de Dados com cursos em Machine Learning, Est
 ## Contatos:
 
 <a href="https://www.linkedin.com/in/rodrigogomesbertini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     </div>  <a href = "mailto:contato@rodrigo.gbertini"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
+<div class="tenor-gif-embed" data-postid="2751778580213316569" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-eat-cat-eat-burger-cat-borger-cat-eat-borger-cat-bite-gif-2751778580213316569">Cat Eat Cat Eat Burger GIF</a>from <a href="https://tenor.com/search/cat+eat-gifs">Cat Eat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
