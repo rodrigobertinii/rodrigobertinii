@@ -3,13 +3,14 @@
 ![Portifolio](https://github.com/user-attachments/assets/df496383-55e5-4fb8-a691-6640d3301054)
 
 
+<img align="right" src="https://github.com/user-attachments/assets/0fb0d6fe-e101-4555-a929-f4d1fda3c2ef" alt="image" width="110"/></div>
 Estou me especializando em Ciência de Dados com cursos em Machine Learning, Estatística e Power BI, e desenvolvendo um portfólio para mostrar meu trabalho. 
 Sou formado em Engenharia Química e tenho um grande interesse por dados. Minha experiência inclui estágios, análise de KPIs e automação de tarefas no Excel com VBA, 
 o que aprimorou a coleta e análise de dados. 
 
 
 
-<img align="right" src="https://github.com/user-attachments/assets/0fb0d6fe-e101-4555-a929-f4d1fda3c2ef" alt="image" width="120"/></div>
+
 
 
 
