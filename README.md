@@ -26,7 +26,8 @@ o que aprimorou a coleta e análise de dados.                                   
 
 
 ## Ferramentas e tecnologias:
-|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>   |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />   |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40"/>   |   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>   |  <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" height="40"> |
+|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>   |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />   |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40"/>   |   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>   |  <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" height="40">   |   <img src="https://github.com/user-attachments/assets/4206ede5-5a3d-4442-93a7-268f0b415637" width="40"/>    |
+
                             
                               
 
@@ -40,4 +41,4 @@ o que aprimorou a coleta e análise de dados.                                   
 ## Contatos:
 
 <a href="https://www.linkedin.com/in/rodrigogomesbertini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     </div>  <a href = "mailto:contato@rodrigo.gbertini"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div align="right"><img  src="https://github.com/user-attachments/assets/ead2ba03-48d8-44d8-bd10-cf0dd54558bc" width="120"/></div>
+<div align="right"><img  src="https://github.com/user-attachments/assets/ead2ba03-48d8-44d8-bd10-cf0dd54558bc" width="120"/></div>   <a href="https://www.notion.so/Portf-lio-Rodrigo-aa7a637ce9094b988ffe9212cb8d4887" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" target="_blank"></a>
