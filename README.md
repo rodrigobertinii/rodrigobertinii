@@ -21,6 +21,8 @@ o que aprimorou a coleta e análise de dados.
 
 
 
+
+
 ![cat-eat-cat-eat-burger](https://github.com/user-attachments/assets/0ac468c7-52c6-4831-bbba-4a17992bc9e5)
 
 
@@ -28,8 +30,8 @@ o que aprimorou a coleta e análise de dados.
 
 
 
-## Ferramentas e tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/>   <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" height="40"> <img src="https://github.com/user-attachments/assets/4206ede5-5a3d-4442-93a7-268f0b415637" width="65"/>    
+## Ferramentas e tecnologias: 
+<img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/><img src="https://github.com/user-attachments/assets/4206ede5-5a3d-4442-93a7-268f0b415637" width="60"/>
 
                             
                               
