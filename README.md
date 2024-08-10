@@ -2,11 +2,15 @@
 
 ![Portifolio](https://github.com/user-attachments/assets/df496383-55e5-4fb8-a691-6640d3301054)
 
+
 Estou me especializando em Ciência de Dados com cursos em Machine Learning, Estatística e Power BI, e desenvolvendo um portfólio para mostrar meu trabalho. 
 Sou formado em Engenharia Química e tenho um grande interesse por dados. Minha experiência inclui estágios, análise de KPIs e automação de tarefas no Excel com VBA, 
 o que aprimorou a coleta e análise de dados. 
 
+
+
 <img align="right" src="https://github.com/user-attachments/assets/0fb0d6fe-e101-4555-a929-f4d1fda3c2ef" alt="image" width="120"/></div>
+
 
 
 
@@ -18,8 +22,6 @@ o que aprimorou a coleta e análise de dados.
 
 
 ![cat-eat-cat-eat-burger](https://github.com/user-attachments/assets/0ac468c7-52c6-4831-bbba-4a17992bc9e5)
-
-
 
 
 
@@ -40,6 +42,5 @@ o que aprimorou a coleta e análise de dados.
 
 
 ## Contatos:
-
-<a href="https://www.linkedin.com/in/rodrigogomesbertini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     </div>  <a href = "mailto:contato@rodrigo.gbertini"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.notion.so/Portf-lio-Rodrigo-aa7a637ce9094b988ffe9212cb8d4887" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" target="_blank"></a>   <img align="center" src="https://github.com/user-attachments/assets/cf8644cf-1002-47a8-9a34-f905ce266fb8" alt="image" width="120"/></div>
+<a href="https://www.linkedin.com/in/rodrigogomesbertini" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     </div>  <a href = "mailto:contato@rodrigo.gbertini"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.notion.so/Portf-lio-Rodrigo-aa7a637ce9094b988ffe9212cb8d4887" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" target="_blank"></a>   <img align="center" src="https://github.com/user-attachments/assets/cf8644cf-1002-47a8-9a34-f905ce266fb8" alt="image" width="110"/></div>
 
