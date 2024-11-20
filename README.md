@@ -32,7 +32,7 @@ o que aprimorou a coleta e análise de dados.
 
 
 ## Ferramentas e tecnologias: 
-<img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/><img src="https://github.com/user-attachments/assets/4206ede5-5a3d-4442-93a7-268f0b415637" width="60"/>
+<img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40"/> <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40"/><img src="https://github.com/user-attachments/assets/4206ede5-5a3d-4442-93a7-268f0b415637" width="60"/> 
 
                             
                               
