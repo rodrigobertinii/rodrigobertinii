@@ -1,12 +1,10 @@
-# Olá, sou o Rodrigo ! 
-
 ![Portifolio](https://github.com/user-attachments/assets/df496383-55e5-4fb8-a691-6640d3301054)
+
+Olá! 👋
 
 
 <img align="right" src="https://github.com/user-attachments/assets/0fb0d6fe-e101-4555-a929-f4d1fda3c2ef" alt="image" width="100"/></div>
-Estou me especializando em Ciência de Dados com cursos em Machine Learning, Estatística e Power BI, e desenvolvendo um portfólio para mostrar meu trabalho. 
-Sou formado em Engenharia Química e tenho um grande interesse por dados. Minha experiência inclui estágios, análise de KPIs e automação de tarefas no Excel com VBA, 
-o que aprimorou a coleta e análise de dados. 
+Sou um Engenheiro Químico em transição para a carreira de Analista de Dados, com uma paixão crescente por dados e um foco contínuo no aprendizado e desenvolvimento de habilidades em Análise de Dados, Estatística, ferramentas de BI e Automação de Processos. Estou criando um portfólio de projetos para demonstrar minhas habilidades e experiências adquiridas ao longo dessa transição.
 
 
 
@@ -16,20 +14,25 @@ o que aprimorou a coleta e análise de dados.
 
 
 
-🚀 Engenheiro apaixonado por dados e em constante aprendizado em Data Science. Explorando Machine Learning, VBA, SQL e estou mergulhado em Power BI no momento. Aqui, compartilho projetos e análises que realizo tanto no trabalho quanto por conta própria. No tempo livre, estou na academia 💪, jogando videogame 🎮, pedalando 🚴‍♂ e, claro, apreciando boa comida 🍔.
+🧠 Minha formação em Engenharia me proporcionou uma base sólida em resolução de problemas, análise e gestão de processos. Ao longo dos últimos anos, trabalhei com análise de KPIs, automação de tarefas no Excel com VBA e no desenvolvimento de soluções para melhorar a coleta e análise de dados. Essas experiências me permitiram aprimorar meu entendimento sobre dados e sua importância para a tomada de decisões.
 
 
+🚀 Atualmente, estou focado em me aprofundar em ferramentas e tecnologias essenciais para a área de Análise de Dados, como SQL Server, PostgreSQL, Tableau, Python, Modelagem de Dados, Looker Studio e Power BI. Busco sempre aplicar essas tecnologias em projetos práticos, gerando insights valiosos para a melhoria contínua dos processos.
 
+Aqui, compartilho projetos e análises realizadas tanto no ambiente profissional quanto em minhas iniciativas pessoais.
+Além do trabalho com dados, nos meus momentos livres, gosto de me dedicar a atividades como:
 
+💪 Academia para manter o corpo e a mente saudáveis,
 
+🎮 Jogos de videogame para relaxar e me divertir,
 
+🚴‍♂️ Ciclismo para explorar novos lugares e me conectar com a natureza,
+
+🍔 E claro, apreciar uma boa comida.
 
 ![cat-eat-cat-eat-burger](https://github.com/user-attachments/assets/0ac468c7-52c6-4831-bbba-4a17992bc9e5)
 
-
-
-
-
+Se você compartilha o interesse por Análise de Dados, Automação de Processos ou áreas afins, vamos conectar e trocar ideias!
 
 ## Ferramentas e tecnologias: 
 <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="40"/> <img src="https://funnel.io/hubfs/Looker%20Studio%20png%20logo.png" width="40"> <img src="https://yt3.googleusercontent.com/wX2r6E4pcyQeQwLforU-2qJnfpk6Q-4LkmYGN2KRmBL9SDLxz-LyLD3ByvZTXzma7PH4gK5Q3Aw=s900-c-k-c0x00ffffff-no-rj" height="40">
