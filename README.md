@@ -6,7 +6,7 @@ Olá! 👋
 <img align="right" src="https://github.com/user-attachments/assets/0fb0d6fe-e101-4555-a929-f4d1fda3c2ef" alt="image" width="100"/></div>
 
 
-Sou Analista de Business Intelligence (BI), com formação em Engenharia Química e atuação profissional voltada para Dados, BI, Analytics e Automação de Processos.
+Sou Analista de Business Intelligence (BI) e atuação profissional voltada para Dados, BI, Analytics e Automação de Processos.
 
 Atualmente, trabalho no desenvolvimento de soluções de Business Intelligence, transformando dados em informações que apoiam decisões estratégicas e operacionais. Minha atuação envolve desde a estruturação e modelagem de dados até a criação de dashboards, KPIs, análises de performance e automações.
 
